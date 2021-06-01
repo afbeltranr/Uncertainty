@@ -1,0 +1,4 @@
+"0","library(AtomicWeights)"
+"0","library(uLPAQ)"
+"0","H<-getAtomicWeight('H')"
+"0","H"

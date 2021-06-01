@@ -1,0 +1,8 @@
+"0","bureta25<- instVolumetrico(nominal=25,"
+"0","                           subdivision =0.1 ,"
+"0","                           tipo=""bureta"","
+"0","                           clase=""A_AS"","
+"0","                           temp=16,"
+"0","                           # volumen = 10.1"
+"0","                           )"
+"0","bureta25"
